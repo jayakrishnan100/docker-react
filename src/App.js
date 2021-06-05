@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Jayakrishnan Manjeri Veedu
+          Learn React By Jayakrishnan Manjeri Veedu
         </a>
       </header>
     </div>
